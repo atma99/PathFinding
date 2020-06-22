@@ -18,7 +18,6 @@ class Obstacle {
     }
 }
 var obstacles = []
-obstacles.push(new Obstacle(100, 180, 20, 150))
 obstacles.push(new Obstacle(250, 0, 20, 150))
 obstacles.push(new Obstacle(450, 150, 20, 150))
 
